@@ -1,2 +1,2 @@
-# justcalc
-My calc on Python
+# Termux
+git clone https://github.com/EkzoByte/justcalc
